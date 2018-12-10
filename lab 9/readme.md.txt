@@ -4,7 +4,7 @@ sa corespunda criteriilor din clauzele WHERE ale exercitiilor respective . **
 
 
 
-![image](photos/ex9.1.png)
+![image](https://github.com/cristofor98/Database-labaratory-/blob/master/lab%209/photos/ex9.1.1.PNG)
 
 
 ![image](photos/ex9.1.1.png)
