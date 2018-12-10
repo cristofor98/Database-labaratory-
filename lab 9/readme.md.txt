@@ -1,4 +1,4 @@
-### ex1 
+﻿### ex1 
 ## **Sa se creeze proceduri stocate in baza exercitiilor (2 exercitii) din capitolul 4. Parametrii de intrare trebuie 
 sa corespunda criteriilor din clauzele WHERE ale exercitiilor respective . **
 
@@ -16,7 +16,7 @@ Parametrul de iesire trebuie sa returneze numarul de studenti, care nu au sustin
 (nota mai mica de 5 sau valoare NULL). **
 
 
-![alt text](photos/ex9.2.png)
+![image](photos/ex9.2.png)
 
 
 ### ex3 
