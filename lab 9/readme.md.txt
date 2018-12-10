@@ -3,15 +3,11 @@
 sa corespunda criteriilor din clauzele WHERE ale exercitiilor respective . **
 
 
-!(/photos/ex9.1.png)
-Format: !(
-        Database-labaratory-/lab 9/photos/ex9.1.1.PNG
-      )
 
-![alt text](photos/ex9.1.png)
+![image](photos/ex9.1.png)
 
 
-![alt text](photos/ex9.1.1.png)
+![image](photos/ex9.1.1.png)
 
 
 ### ex 2 
